@@ -1,0 +1,6 @@
+devel_space: /home/tejas/dexter/devel
+install: false
+install_space: /home/tejas/dexter/install
+profile: default
+source_space: /home/tejas/dexter/src
+workspace: /home/tejas/dexter

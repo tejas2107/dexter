@@ -1,0 +1,12 @@
+Symlinking /home/tejas/dexter/devel/./setup.bash
+Symlinking /home/tejas/dexter/devel/./local_setup.sh
+Symlinking /home/tejas/dexter/devel/./setup.sh
+Symlinking /home/tejas/dexter/devel/./_setup_util.py
+Symlinking /home/tejas/dexter/devel/./local_setup.bash
+Symlinking /home/tejas/dexter/devel/./setup.zsh
+Symlinking /home/tejas/dexter/devel/./cmake.lock
+Symlinking /home/tejas/dexter/devel/./local_setup.zsh
+Symlinking /home/tejas/dexter/devel/./env.sh
+Symlinking /home/tejas/dexter/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/tejas/dexter/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/tejas/dexter/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
